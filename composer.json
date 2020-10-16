@@ -1,5 +1,5 @@
 {
-    "name": "radicalloop/eodhistoricaldata",
+    "name": "julienr44/eodhistoricaldata",
     "description": "Wrapper for eodhistoricaldata.com",
     "type": "library",
     "license": "MIT",
